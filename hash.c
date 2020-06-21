@@ -32,7 +32,7 @@ struct hash_iter {
     size_t num_lista;  //revisar, indicaria la posicion dentro del hash de la lista actual.
 };
 
-unsigned long funcion_hash();  //buscar alguna de las que tengo guardadas en internet.
+
 
 /*
 Inicializa las lista, para cada posicion del hash, 
