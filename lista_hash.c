@@ -6,6 +6,7 @@
 #include <stdlib.h>
 
 #include "string.h"
+
 typedef struct nodo {
     struct nodo* proximo;
     void* dato;
